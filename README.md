@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliHascan
 - 👀 I’m interested in ...
-- 🌱 HDML, Java, css, python
+- 🌱 HTML, CSS, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 alihascan7@gmail.com
 
